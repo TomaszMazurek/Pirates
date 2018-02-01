@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/gfx">
+        <file>pirateShip.png</file>
+        <file>cargoShip.png</file>
+        <file>sea.jpg</file>
+        <file>sea2.jpg</file>
+        <file>brig.png</file>
+        <file>barque.png</file>
+    </qresource>
+</RCC>
